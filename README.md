@@ -8,13 +8,13 @@ For best results, follow this two-step workflow:
 
 ### Step 1: Load the Senior Developer Persona
 
-Start by giving your AI assistant the contents of **`SOP - Senior Developer Persona.md`**. This establishes the Senior Technical Architect persona — a security-focused, metrics-driven auditor that produces quantitative, structured reports with finding IDs, effort estimates, and weighted scoring.
+Start by giving your AI assistant the contents of **`SOP-Senior-Developer-Persona.md`**. This establishes the Senior Technical Architect persona — a security-focused, metrics-driven auditor that produces quantitative, structured reports with finding IDs, effort estimates, and weighted scoring.
 
 Paste the full contents of the persona file as a system prompt or as the first message in your conversation.
 
 ### Step 2: Run the Code Audit
 
-With the persona active, follow the process in **`SOP - AI-Assisted Code Audit.md`**:
+With the persona active, follow the process in **`SOP-AI-Assisted-Code-Audit.md`**:
 
 1. Complete the **Pre-Audit Checklist** — gather source code, dependency manifests, build configs, and any previous audit reports.
 2. Run the **Pre-Analysis Commands** against the target codebase to collect quantitative data (LOC, dependency counts, security scans, etc.).

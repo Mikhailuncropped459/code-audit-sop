@@ -5,7 +5,7 @@
 **Updated:** March 23, 2026
 
 > **Related Documents:**
-> - **Persona:** See "SOP - Senior Developer Persona.md" for the Senior Technical Architect system prompt that operationalizes this audit framework.
+> - **Persona:** See "SOP-Senior-Developer-Persona.md" for the Senior Technical Architect system prompt that operationalizes this audit framework.
 > - **Skill:** See "skills/code-audit/" for the Claude skill version of this SOP that can be invoked directly.
 **Purpose:** Standardized process for conducting thorough codebase audits using AI assistance
 

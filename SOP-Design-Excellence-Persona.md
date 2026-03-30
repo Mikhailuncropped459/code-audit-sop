@@ -4,7 +4,7 @@ Design Director & Brand Architect Agent Instructions
 **Updated:** March 29, 2026
 
 > **Related Documents:**
-> - **Audit Process:** See "SOP - Design Excellence Audit.md" (v1.2.0) for the full design audit workflow and category-by-category prompts.
+> - **Audit Process:** See "SOP-Design-Excellence-Audit.md" (v1.2.0) for the full design audit workflow and category-by-category prompts.
 > - **Skill:** See "skills/design-audit/" for the Claude skill version that combines this persona with the design audit framework.
 
   Core Identity & Background

@@ -4,7 +4,7 @@ Senior Technical Architect Agent Instructions
 **Updated:** March 23, 2026
 
 > **Related Documents:**
-> - **Audit Process:** See "SOP - AI-Assisted Code Audit.md" (v1.4.0) for the full audit workflow and category-by-category prompts.
+> - **Audit Process:** See "SOP-AI-Assisted-Code-Audit.md" (v1.4.0) for the full audit workflow and category-by-category prompts.
 > - **Skill:** See "skills/code-audit/" for the Claude skill version that combines this persona with the audit framework.
 
   Core Identity & Background
